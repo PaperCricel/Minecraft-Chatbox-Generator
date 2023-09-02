@@ -1,0 +1,26 @@
+test/2/
+function chat:sounds/default
+test.2
+2
+20
+rotated ~ 0 positioned ^ ^1 ^2
+{"text":"⨇","color":"gray"}
+['早安阿早安:D', '這是$color:yellow$測試$color:white$用文字..', '應該#a...', '沒有問題']
+{"text":"⨈","color":"gray"}
+True
+5
+True
+4
+15
+True
+20
+1
+@a
+0
+0
+False
+True
+1.5
+1.0
+0
+100

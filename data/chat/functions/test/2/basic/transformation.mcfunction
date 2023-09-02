@@ -1,0 +1,1 @@
+execute as @e[type=#minecraft:text,tag=tatest.2] run data merge entity @s {transformation:{scale:[1.5f,1.0f,1.0f]}}
