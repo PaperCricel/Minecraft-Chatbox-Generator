@@ -2,8 +2,8 @@
 
 ### Datapack資訊
 
-- 當前版本 : v1.0.0
-- Minecraft適用版本 : 1.18 ~ 1.19
+- 當前版本 : v1.2.0
+- Minecraft適用版本 : 1.20.2 ~
 - 外部連結Youtube : [對話產生器宣傳片 + 基礎設定](https://youtu.be/I-17u_JJ3aI)
 - - -
 ### 說明
